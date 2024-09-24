@@ -1,1 +1,1 @@
-This is the client side socket application.
+This is the chat application using sockests in C programming language.
